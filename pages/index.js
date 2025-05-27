@@ -1,5 +1,7 @@
+import PageUnderConstruction from "./components/PageUnderConstruction/PageUnderConstruction";
+
 const Home = () => {
-  return <div>Em construção ...</div>;
+  return <PageUnderConstruction />;
 };
 
 export default Home;
